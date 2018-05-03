@@ -1,45 +1,43 @@
 import logging
-from datamodel.search.LeolePersonn2_datamodel import LeolePersonn2Link, OneLeolePersonn2UnProcessedLink
+from datamodel.search.LeoleJpadill3_datamodel import LeoleJpadill3Link, OneLeoleJpadill3UnProcessedLink
 from spacetime.client.IApplication import IApplication
 from spacetime.client.declarations import Producer, GetterSetter, Getter
-from lxml import html, etree
-from lxml.etree import XPath
-from urlparse import urljoin
+from lxml import html,etree
 import re, os
 from time import time
-import requests
 from uuid import uuid4
+import  requests
 from bs4 import BeautifulSoup
 
-from urlparse import urlparse, parse_qs
+from urlparse import urlparse, urljoin, parse_qs
 from uuid import uuid4
 
 logger = logging.getLogger(__name__)
 LOG_HEADER = "[CRAWLER]"
 
-
-@Producer(LeolePersonn2Link)
-@GetterSetter(OneLeolePersonn2UnProcessedLink)
+@Producer(LeoleJpadill3Link)
+@GetterSetter(OneLeoleJpadill3UnProcessedLink)
 class CrawlerFrame(IApplication):
-    app_id = "LeolePersonn2"
+    app_id = "LeoleJpadill3"
 
     def __init__(self, frame):
-        self.app_id = "LeolePersonn2"
+        self.app_id = "LeoleJpadill3"
         self.frame = frame
+
 
     def initialize(self):
         self.count = 0
-        links = self.frame.get_new(OneLeolePersonn2UnProcessedLink)
+        links = self.frame.get_new(OneLeoleJpadill3UnProcessedLink)
         if len(links) > 0:
             print "Resuming from the previous state."
             self.download_links(links)
         else:
-            l = LeolePersonn2Link("http://www.ics.uci.edu/")
+            l = LeoleJpadill3Link("http://www.ics.uci.edu/")
             print l.full_url
             self.frame.add(l)
 
     def update(self):
-        unprocessed_links = self.frame.get_new(OneLeolePersonn2UnProcessedLink)
+        unprocessed_links = self.frame.get_new(OneLeoleJpadill3UnProcessedLink)
         if unprocessed_links:
             self.download_links(unprocessed_links)
 
@@ -50,7 +48,7 @@ class CrawlerFrame(IApplication):
             links = extract_next_links(downloaded)
             for l in links:
                 if is_valid(l):
-                    self.frame.add(LeolePersonn2Link(l))
+                    self.frame.add(LeoleJpadill3Link(l))
 
     def shutdown(self):
         print (
@@ -125,6 +123,7 @@ def extract_next_links(rawDataObj):
     return outputLinks
 
 
+
 def is_valid(url):
     '''
     Function returns True or False based on whether the url has to be
@@ -132,19 +131,18 @@ def is_valid(url):
     Robot rules and duplication rules are checked separately.
     This is a great place to filter out crawler traps.
     '''
-
     parsed = urlparse(url)
-
     if parsed.scheme not in set(["http", "https"]):
         return False
     try:
         return ".ics.uci.edu" in parsed.hostname \
-               and not re.match(".*\.(css|js|bmp|gif|jpe?g|ico" + "|png|tiff?|mid|mp2|mp3|mp4" \
-                                + "|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf" \
-                                + "|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso|epub|dll|cnf|tgz|sha1" \
-                                + "|thmx|mso|arff|rtf|jar|csv" \
-                                + "|rm|smil|wmv|swf|wma|zip|rar|gz|pdf)$", parsed.path.lower())
+            and not re.match(".*\.(css|js|bmp|gif|jpe?g|ico" + "|png|tiff?|mid|mp2|mp3|mp4"\
+            + "|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf" \
+            + "|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso|epub|dll|cnf|tgz|sha1" \
+            + "|thmx|mso|arff|rtf|jar|csv"\
+            + "|rm|smil|wmv|swf|wma|zip|rar|gz|pdf)$", parsed.path.lower())
 
     except TypeError:
         print ("TypeError for ", parsed)
         return False
+

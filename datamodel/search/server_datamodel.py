@@ -27,6 +27,7 @@ class UrlResponse(object):
         self.headers = headers
         self.http_code = http_code
         self.is_redirected = is_redirected
+        self.final_url = final_url
 
 
 class Link(object):
