@@ -1,0 +1,3457 @@
+{
+    "gc": {}
+}{
+    "gc": {
+        "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": {
+            "calendar.ics.uci.edu/calendar.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "futurehealth.ics.uci.edu": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "intranet.ics.uci.edu": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "mcs.ics.uci.edu": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "ngs.ics.uci.edu": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195969.852187,
+                    1525195969.852187
+                ]
+            },
+            "ngs.ics.uci.edu/about-ramesh/events": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/about-ramesh/news": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/blog": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/digital-india-a-potentially-transformative-opportunity": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/entrepreneur": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/entrepreneurship": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/entrepreneurship/current-companies": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/entrepreneurship/past-companies": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/partners": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/partners/collaborators": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/partners/current-students": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/partners/past-students": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/personal": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/personal/education": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/personal/favorite-books": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/personal/favorite-quotes": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/personal/past-affiliations": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/professionalsocial": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/professionalsocial/interviews": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/professionalsocial/recognitions": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/professionalsocial/services": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/books": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/patents": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/presentations": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/projects": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/research-papers": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/research-papers/computer-vision": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/research-papers/experiential-computing": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/research/research-papers/multimedia-information-management": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/researcher": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/teacher": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/teaching": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/teaching/current-courses": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "ngs.ics.uci.edu/teaching/past-courses": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195971.534192,
+                    1525195971.534192
+                ]
+            },
+            "www.ics.uci.edu": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195747.558805,
+                    1525195747.558805
+                ]
+            },
+            "www.ics.uci.edu/../../computing/account/new.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/../computing/account/new.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/QA_Graduation.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/QA_Petitions.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/about": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/about_contact.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/about_deanmsg.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/about_factsfigures.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/about_mission.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/about_safety.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/annualreport": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/annualreport/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/bren/bren_press.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/bren/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/brenhall": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/brenhall/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/brenhall/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/about/equity": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195749.769016,
+                    1525195749.769016
+                ]
+            },
+            "www.ics.uci.edu/about/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195751.642685,
+                    1525195751.642685
+                ]
+            },
+            "www.ics.uci.edu/about/search/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/search/search_graduate_all.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/visit/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/about/visit/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/alumni": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/events/competition": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/events/openhouse/dedication.html": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193663.92787,
+                    1525193663.92787
+                ]
+            },
+            "www.ics.uci.edu/community/news": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/press": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/press/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/student_blogs": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/student_blogs/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1259": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194369.506148,
+                    1525194369.506148
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1260": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194367.092982,
+                    1525194367.092982
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1261": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194364.944146,
+                    1525194364.944146
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1262": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194356.780114,
+                    1525194356.780114
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1263": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194354.329065,
+                    1525194354.329065
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1264": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194352.304833,
+                    1525194352.304833
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1265": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1266": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194343.206185,
+                    1525194343.206185
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1267": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1268": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194343.206185,
+                    1525194343.206185
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1269": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1270": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194378.294718,
+                    1525194378.294718
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1321": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194141.085674,
+                    1525194141.085674
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news.php?id=1323": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194141.085674,
+                    1525194141.085674
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1117": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194364.944146,
+                    1525194364.944146
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1159": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1160": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1161": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1162": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1163": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1164": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1165": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1166": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1167": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1168": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1169": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1170": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1171": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1172": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1173": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1175": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1176": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1177": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1178": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1179": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1180": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1181": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1182": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1183": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1184": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1185": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1186": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1187": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1188": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1189": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1190": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1191": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1192": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1193": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1194": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1195": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1196": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1197": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1198": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1199": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1200": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1201": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1202": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1203": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1204": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1205": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1206": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1207": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1208": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1209": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1210": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1211": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1212": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1213": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1215": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1216": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1217": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1218": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1219": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1220": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1221": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1222": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1223": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1224": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1225": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1226": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1227": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1228": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1229": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1230": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1231": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1232": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1233": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1234": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1235": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1236": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1237": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1238": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1239": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1240": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1241": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1242": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1243": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1244": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1245": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1246": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1247": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1248": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1249": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1250": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1251": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1252": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1253": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1254": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1255": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1256": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1257": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1258": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1259": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1260": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194369.506148,
+                    1525194369.506148
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1261": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194367.092982,
+                    1525194367.092982
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1262": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194364.944146,
+                    1525194364.944146
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1263": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194356.780114,
+                    1525194356.780114
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1264": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194354.329065,
+                    1525194354.329065
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1265": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194352.304833,
+                    1525194352.304833
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1266": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1267": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194343.206185,
+                    1525194343.206185
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1268": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195760.102752,
+                    1525195760.102752
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1269": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194378.294718,
+                    1525194378.294718
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1270": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1271": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1272": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1273": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1274": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1275": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1276": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1277": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1278": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1279": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1280": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1281": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1282": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1283": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1284": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1285": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1286": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1287": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1288": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1289": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1290": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1291": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1292": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1293": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1294": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1295": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1296": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1297": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1298": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1299": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1300": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1301": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1302": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1303": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1304": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1305": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1306": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1307": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1308": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1309": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1310": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1311": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1312": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1313": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1314": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1315": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1316": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1317": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1318": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1319": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1320": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1321": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1322": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1323": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1324": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1325": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1326": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1327": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1328": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1329": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1330": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1331": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1332": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1333": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1334": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1335": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194341.144643,
+                    1525194341.144643
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1336": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/news/view_news?id=1337": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194342.640606,
+                    1525194342.640606
+                ]
+            },
+            "www.ics.uci.edu/community/scholarships/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/computing/account/new": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/courses/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/degrees/Double_Majors.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/degrees/Minors.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/degrees/Second_BA.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/degrees/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/dept": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/faculty": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/faculty/area": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/faculty/centers": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/faculty/highlights": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/admissions/Prospective_ApplicationProcess.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/admissions/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/admissions/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/courses": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195764.36801,
+                    1525195764.36801
+                ]
+            },
+            "www.ics.uci.edu/grad/courses/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/courses/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195764.280086,
+                    1525195764.280086
+                ]
+            },
+            "www.ics.uci.edu/grad/courses/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195764.36801,
+                    1525195764.36801
+                ]
+            },
+            "www.ics.uci.edu/grad/degrees/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/degrees/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/forms/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/forms/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/funding/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/funding/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.224662,
+                    1525195762.224662
+                ]
+            },
+            "www.ics.uci.edu/grad/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/policies/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/policies/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/grad/resources": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/grad/resources.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195762.239473,
+                    1525195762.239473
+                ]
+            },
+            "www.ics.uci.edu/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/involved": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/involved/corporate_partner": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/involved/corporate_partner.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/involved/information_session.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.967722,
+                    1525195757.967722
+                ]
+            },
+            "www.ics.uci.edu/involved/internship.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/involved/leadership_council": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195751.856962,
+                    1525195751.856962
+                ]
+            },
+            "www.ics.uci.edu/involved/leadership_council.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/involved/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/involved/project_class": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/involved/project_class.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/involved/tech_talk.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195757.890356,
+                    1525195757.890356
+                ]
+            },
+            "www.ics.uci.edu/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Academic_Honesty.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Academic_Standing.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Add_Drop_ChangeOption.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/CS199_IN4MATX199.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.700851,
+                    1525195745.700851
+                ]
+            },
+            "www.ics.uci.edu/policies/Change_of_Major.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Course_Outside_UCI.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Grade_Options.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Laptop_ComputerUse.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/Withdrawal_Readmission.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/policies/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195747.558805,
+                    1525195747.558805
+                ]
+            },
+            "www.ics.uci.edu/prospective": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/resources/Title_IX_Resources.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/resources/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/sao/Appts_Walk-Ins.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/sao/Course_updates.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/sao/SAO_Events.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/sao/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195745.604819,
+                    1525195745.604819
+                ]
+            },
+            "www.ics.uci.edu/ugrad": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195739.346476,
+                    1525195739.346476
+                ]
+            },
+            "www.ics.uci.edu/ugrad/QA_Graduation": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/QA_Graduation.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/QA_Petitions": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/QA_Petitions.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/courses/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/courses/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/degrees/Double_Majors.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/degrees/Minors": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/degrees/Minors.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/degrees/Second_BA.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/degrees/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193669.80408,
+                    1525193669.80408
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Academic_Honesty.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Academic_Integrity": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Academic_Standing": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Academic_Standing.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.587442,
+                    1525195773.587442
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/CS199_IN4MATX199": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/CS199_IN4MATX199.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Change_of_Major.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Course_Outside_UCI": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Course_Outside_UCI.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195775.589402,
+                    1525195775.589402
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Grade_Options": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Grade_Options.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/policies/none": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/resources/Title_IX_Resources.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/resources/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/resources/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/Appts_Walk-Ins.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525193669.80408,
+                    1525193669.80408
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/Course_updates": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/Course_updates.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/SAO_Events.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/index": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195737.094176,
+                    1525195737.094176
+                ]
+            },
+            "www.ics.uci.edu/ugrad/sao/index.php": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525195773.407241,
+                    1525195773.407241
+                ]
+            },
+            "www.ics.uci.edu/~amirr1": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "www.ics.uci.edu/~dutt": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "www.ics.uci.edu/~eppstein": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194367.092982,
+                    1525194367.092982
+                ]
+            },
+            "www.ics.uci.edu/~franklin": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194354.329065,
+                    1525194354.329065
+                ]
+            },
+            "www.ics.uci.edu/~klefstad": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194354.329065,
+                    1525194354.329065
+                ]
+            },
+            "www.ics.uci.edu/~mlevorat": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194345.676872,
+                    1525194345.676872
+                ]
+            },
+            "www.ics.uci.edu/~mlevorat/index.html": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194356.780114,
+                    1525194356.780114
+                ]
+            },
+            "www.ics.uci.edu/~sbaidya": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194356.780114,
+                    1525194356.780114
+                ]
+            },
+            "www.ics.uci.edu/~sjordan": {
+                "types": {
+                    "datamodel.search.LeolePersonn2_datamodel.LeolePersonn2Link": 0
+                },
+                "version": [
+                    1525194343.206185,
+                    1525194343.206185
+                ]
+            }
+        }
+    }
+}{
+    "gc": {}
+}
