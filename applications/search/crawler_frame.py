@@ -74,7 +74,9 @@ def to_load():
             frequency[subdomain] = time
     except IOError:
         print("no file to load")
+
     frequency_in_file.close()
+
     try:
         in_most_out_links = open("/Users/leole/Documents/GitHub/spacetime-crawler-master/"
                                 "spacetime-crawler-master/most_out.txt", "r")
@@ -84,6 +86,7 @@ def to_load():
             most_out_link[1] = outlink
     except IOError:
         return False;
+
     in_most_out_links.close()
 
 
@@ -151,6 +154,13 @@ def extract_next_links(rawDataObj):
     url = get_main_URL_from_raw(rawDataObj)
     tag = get_tag_url_from_main(url)
     out_link_count = 0
+    url_parsed = urlparse(url)
+
+    if url_parsed.netloc in frequency:
+        temp = 1 + int(frequency[url_parsed.netloc])
+        frequency[url_parsed.netloc] = temp;
+    else:
+        frequency[url_parsed.netloc] = 1
 
     for ref in tag:
         href = ref.get('href', 'none')
@@ -160,11 +170,6 @@ def extract_next_links(rawDataObj):
         if (href not in outputLinks) and is_valid(href):
             out_link_count += 1
             outputLinks.append(href)
-            href_parsed = urlparse(href)
-            if parsed.netloc in frequency:
-                frequency[href_parsed.netloc] = 1 + int(frequency[href_parsed.netloc])
-            else:
-                frequency[parsed.netloc] = 1
 
     check_most_out_link(url, out_link_count)
 
