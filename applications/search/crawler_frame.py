@@ -2,18 +2,25 @@ import logging
 from datamodel.search.LeoleJpadill3_datamodel import LeoleJpadill3Link, OneLeoleJpadill3UnProcessedLink
 from spacetime.client.IApplication import IApplication
 from spacetime.client.declarations import Producer, GetterSetter, Getter
-from lxml import html,etree
+from lxml import html, etree
 import re, os
 from time import time
 from uuid import uuid4
-import  requests
+import requests
 from bs4 import BeautifulSoup
+from requests.exceptions import ConnectionError
+import robotparser
 
 from urlparse import urlparse, urljoin, parse_qs
-from uuid import uuid4
+import signal
+import sys
 
 logger = logging.getLogger(__name__)
 LOG_HEADER = "[CRAWLER]"
+frequency = {}
+most_out_link = ["temp", -1]
+last_time_write = 0
+parsed = urlparse('www.website.com')
 
 @Producer(LeoleJpadill3Link)
 @GetterSetter(OneLeoleJpadill3UnProcessedLink)
@@ -24,7 +31,6 @@ class CrawlerFrame(IApplication):
         self.app_id = "LeoleJpadill3"
         self.frame = frame
 
-
     def initialize(self):
         self.count = 0
         links = self.frame.get_new(OneLeoleJpadill3UnProcessedLink)
@@ -32,7 +38,9 @@ class CrawlerFrame(IApplication):
             print "Resuming from the previous state."
             self.download_links(links)
         else:
+            # l = LeoleJpadill3Link("http://ganglia.ics.uci.edu/")
             l = LeoleJpadill3Link("http://www.ics.uci.edu/")
+
             print l.full_url
             self.frame.add(l)
 
@@ -56,15 +64,47 @@ class CrawlerFrame(IApplication):
             time() - self.starttime, " seconds.")
 
 
-frequency = {}
-most_out_link = ["temp", -1]
+def to_load():
+    global frequency
+    try:
+        frequency_in_file = open("/Users/leole/Documents/GitHub/"
+                                 "spacetime-crawler-master/spacetime-crawler-master/frequency.txt", "r")
+        for line in frequency_in_file:
+            subdomain, time = line.split(' ')
+            frequency[subdomain] = time
+    except IOError:
+        print("no file to load")
+    frequency_in_file.close()
+    try:
+        in_most_out_links = open("/Users/leole/Documents/GitHub/spacetime-crawler-master/"
+                                "spacetime-crawler-master/most_out.txt", "r")
+        for line in in_most_out_links:
+            site, outlink = line.split(' ')
+            most_out_link[0] = site
+            most_out_link[1] = outlink
+    except IOError:
+        return False;
+    in_most_out_links.close()
+
+
+def to_write():
+    out_frequency = open("/Users/leole/Documents/GitHub/spacetime-crawler-master/spacetime-crawler-master/frequency.txt", "w")
+    out_most_out_links = open("/Users/leole/Documents/GitHub/spacetime-crawler-master/spacetime-crawler-master/most_out.txt", "w")
+
+    for row in frequency:
+        print >> out_frequency, row + " " + str(frequency[row])
+
+    out = str(most_out_link[0]) + " " + str(most_out_link[1])
+    out_most_out_links.write(out)
+
+    out_frequency.close()
+    out_most_out_links.close()
 
 
 def check_most_out_link(url, out_link_count):
     if most_out_link[1] < out_link_count:
-        most_out_link[0] = url;
+        most_out_link[0] = url
         most_out_link[1] = out_link_count
-        print("most out changed ", most_out_link[0], " ", out_link_count)
 
 
 def get_main_URL_from_raw(rawDataObj):
@@ -76,14 +116,17 @@ def get_main_URL_from_raw(rawDataObj):
 
 
 def get_tag_url_from_main(url):
-    html = requests.get(url)
-    soup = BeautifulSoup(html.content, "lxml")
+    website_data = requests.get(url)
+    soup = BeautifulSoup(website_data.content, "lxml")
 
+    # return only the anchor tags
     return soup('a')
 
 
 def extract_next_links(rawDataObj):
     outputLinks = []
+    global last_time_write
+    global parsed
     '''
     rawDataObj is an object of type UrlResponse declared at L20-30
     datamodel/search/server_datamodel.py
@@ -101,27 +144,44 @@ def extract_next_links(rawDataObj):
         invalid links, crawler traps encountered, and so on. But this is not mandatory.
     '''
 
-    # TODO writer to file
-    # TODO add analytics
+    # load when file first start
+    if not frequency:
+        to_load()
 
     url = get_main_URL_from_raw(rawDataObj)
     tag = get_tag_url_from_main(url)
     out_link_count = 0
 
-    for a in tag:
-        href = a.get('href', 'none')
+    for ref in tag:
+        href = ref.get('href', 'none')
         if not href.startswith('http'):
             href = urljoin(rawDataObj.url, href)
-        # TODO parsed url
 
         if (href not in outputLinks) and is_valid(href):
             out_link_count += 1
             outputLinks.append(href)
+            href_parsed = urlparse(href)
+            if parsed.netloc in frequency:
+                frequency[href_parsed.netloc] = 1 + int(frequency[href_parsed.netloc])
+            else:
+                frequency[parsed.netloc] = 1
 
     check_most_out_link(url, out_link_count)
 
+    if last_time_write == 10:
+        to_write()
+        last_time_write = 0
+    else:
+        last_time_write = last_time_write + 1
+
     return outputLinks
 
+
+def check_url(url):
+    if len(url) >= 30:
+        return False
+    else:
+        return True
 
 
 def is_valid(url):
@@ -131,18 +191,35 @@ def is_valid(url):
     Robot rules and duplication rules are checked separately.
     This is a great place to filter out crawler traps.
     '''
+    global parsed
     parsed = urlparse(url)
     if parsed.scheme not in set(["http", "https"]):
         return False
+
+    # remove calendar
+    if "calendar" in parsed.netloc:
+        return False
+
+    # if length of url is too long probably a trap
+    if not check_url(parsed.query):
+        return False
+
+    # check if url is no 404 by only checking only getting the header of the url
+    # should be last b/c it is quite expensive
+    try:
+        request = requests.head(url)
+        if request.status_code != 200:
+            return False
+    except ConnectionError:
+        return False
+
     try:
         return ".ics.uci.edu" in parsed.hostname \
-            and not re.match(".*\.(css|js|bmp|gif|jpe?g|ico" + "|png|tiff?|mid|mp2|mp3|mp4"\
-            + "|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf" \
-            + "|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso|epub|dll|cnf|tgz|sha1" \
-            + "|thmx|mso|arff|rtf|jar|csv"\
-            + "|rm|smil|wmv|swf|wma|zip|rar|gz|pdf)$", parsed.path.lower())
-
+               and not re.match(".*\.(css|js|bmp|gif|jpe?g|ico" + "|png|tiff?|mid|mp2|mp3|mp4" \
+                                + "|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf" \
+                                + "|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso|epub|dll|cnf|tgz|sha1" \
+                                + "|thmx|mso|arff|rtf|jar|csv" \
+                                + "|rm|smil|wmv|swf|wma|zip|rar|gz|pdf)$", parsed.path.lower())
     except TypeError:
         print ("TypeError for ", parsed)
         return False
-
